@@ -1,0 +1,40 @@
+---
+title: "BUS461_Ng_Tiffany_Introduction"
+author: "Tiffany Ng"
+date: "1/30/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Student Introduction  
+
+
+**A Little About Me**  
+
+My name is Tiffany and I am a senior OTM student with a Psychology and French minor. I am originally from *Hong Kong* :)    
+
+<br>
+
+**Link to my Website:**
+[www.tiffanynmw.com](www.tiffanynmw.com)
+
+<br>
+
+**Languages I Know**
+
+| Language  | Proficiency   |
+|:----------| :-------------|
+| Cantonese | Native        |
+| Mandarin  | Fluent        |
+| English   | Fluent        |
+| French    | Intermediate  |
+| Japanese  | Beginner      |
+
+<br>
+
+**Here's an image I took in Hong Kong**  
+
+![Central, Hong Kong](IMG_4120.jpg)
